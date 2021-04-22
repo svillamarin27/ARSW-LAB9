@@ -43,6 +43,31 @@ Cuando un conjunto de usuarios consulta un enésimo número (superior a 1000000)
 
 6. Cree una nueva Function que resuleva el problema de Fibonacci pero esta vez utilice un enfoque recursivo con memoization. Pruebe la función varias veces, después no haga nada por al menos 5 minutos. Pruebe la función de nuevo con los valores anteriores. ¿Cuál es el comportamiento?.
 
+![image](https://user-images.githubusercontent.com/37603257/115750571-ebe6f580-a35d-11eb-822e-dc5513155371.png)
+
+  - Prueba 10 solicitudes
+  
+  ![image](https://user-images.githubusercontent.com/37603257/115750771-26e92900-a35e-11eb-8fad-d8fce4b97106.png)
+
+  - Prueba 1 (espera)
+  
+  ![image](https://user-images.githubusercontent.com/37603257/115750912-484a1500-a35e-11eb-8988-5f481a5ce669.png)
+
+  - Prueba 2
+
+  ![image](https://user-images.githubusercontent.com/37603257/115751131-7c253a80-a35e-11eb-8a90-afc8dc59349d.png)
+
+  - Prueba 2 (espera)
+
+  ![image](https://user-images.githubusercontent.com/37603257/115751242-9d862680-a35e-11eb-874c-9d9943274c77.png)
+
+  - Estado del sistema :
+
+  ![image](https://user-images.githubusercontent.com/37603257/115752144-711eda00-a35f-11eb-8ece-8ff099eefcf9.png)
+  ![image](https://user-images.githubusercontent.com/37603257/115752192-7c720580-a35f-11eb-808d-b49f4e14d127.png)
+  ![image](https://user-images.githubusercontent.com/37603257/115752276-8dbb1200-a35f-11eb-9d15-ddb16a3ff650.png)
+  ![image](https://user-images.githubusercontent.com/37603257/115752329-9875a700-a35f-11eb-89dc-fd4008ec2a47.png)
+   
 **Preguntas**
 
 * ¿Qué es un Azure Function?
